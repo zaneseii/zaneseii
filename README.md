@@ -45,23 +45,4 @@ I recently completed a Web Development internship at **Armada Logics Inc.**, whe
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🦷 [**DentiCare**](#) | Web-based patient monitoring & appointment management system | Laravel, Tailwind CSS, AlpineJS, Livewire |
-| ☕ [**Bean There Café**](https://github.com/zaneseii/bean-there-cafe) | E-commerce web app built solo in a 2-week sprint | Java, HTML, CSS, JavaScript |
-| 🎌 [**Mochitsuki Experiences**](#) | Platform for booking cultural experiences | Laravel, Tailwind CSS, Livewire |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaneseii&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaneseii&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>📫 Let's connect — always open to opportunities and interesting projects!</i></p>
