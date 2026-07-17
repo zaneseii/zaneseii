@@ -9,17 +9,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a Full-Stack Web Developer from the Philippines, graduated **Cum Laude** (GWA: 1.63) in **BS Information Technology** from Central Luzon State University. I build clean, functional web applications using **Laravel** and **React**, and I'm passionate about turning real problems into working software.
 
 I recently completed a Web Development internship at **Armada Logics Inc.**, where I collaborated with a cross-functional team to ship a working e-commerce app within a one-week sprint. I'm currently looking for my first full-time role where I can keep growing as a developer.
 
-- 🔭 Currently building a **Job Application Tracker** (Laravel + Livewire SaaS project)
-- 🌱 Currently leveling up my **React/Next.js** skills
-- 💬 Ask me about **PHP, Laravel, or full-stack web development**
-- ⚡ Fun fact: I use AI-assisted tools (Claude, ChatGPT, Copilot) daily to write cleaner code and move faster
-
+- Currently leveling up my **React/Next.js** skills
+- Ask me about **PHP, Laravel, or full-stack web development**
+- Fun fact: I use AI-assisted tools (Claude, ChatGPT, Copilot) daily to write cleaner code and move faster
+- I also love fitness and sports
 ---
 
 ### 🛠️ Tech Stack
